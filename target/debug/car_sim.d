@@ -1,1 +1,0 @@
-/Users/normenyu/Desktop/fall-coop-projects/rust/genetic-learning/target/debug/car_sim: /Users/normenyu/Desktop/fall-coop-projects/rust/genetic-learning/src/bin/car_sim.rs /Users/normenyu/Desktop/fall-coop-projects/rust/genetic-learning/src/bin/settings.rs
